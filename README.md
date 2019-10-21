@@ -1,1 +1,1 @@
-# sal-o-de-beleza
+# salao-de-beleza
